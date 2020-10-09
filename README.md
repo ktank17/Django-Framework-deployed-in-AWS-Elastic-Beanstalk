@@ -12,6 +12,9 @@ Implementing ToDo CRUD App using Django Framework deployed in AWS Elastic Beanst
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/54612462/95407487-ffef6c00-08d1-11eb-8ca5-bed39be35a9f.png)
 
+
+
+
 - To add todo, enter the description, select category, select the due date and click on Add Task.
 - For deleting any todo, just click on it and select the Delete task.
 
