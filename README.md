@@ -10,7 +10,6 @@ Implementing ToDo CRUD App using Django Framework deployed in AWS Elastic Beanst
 - Django runs on an MVT (Model View Template) system. So for the To-do application, we use models, views, crud operations, url routing, DTL (Django Template Language) and some basic settings.
 - Here is the sample screenshot of how the view page of Todo app looks. 
 
-![Screenshot (189)](https://user-images.githubusercontent.com/54612462/95407487-ffef6c00-08d1-11eb-8ca5-bed39be35a9f.png)
 
 ![Screenshot (150)](https://github.com/ktank17/Django-Framework-deployed-in-AWS-Elastic-Beanstalk/blob/main/screenshots/Screen%20Shot%202020-10-09%20at%204.09.46%20PM.png)
 
