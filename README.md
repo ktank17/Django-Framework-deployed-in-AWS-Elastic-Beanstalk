@@ -60,5 +60,3 @@ Django is a full-stack web framework for Python, whereas Flask is a lightweight 
 - https://realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/
 - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
 
-
-
