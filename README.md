@@ -1,5 +1,7 @@
 # Django-Framework-deployed-in-AWS-Elastic-Beanstalk
 
+## Project Documentation: http://csweb01.csueastbay.edu/~hk7275/index.html
+
 ## Project Proposal:
 
 #### Title of Topic: 
